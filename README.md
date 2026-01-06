@@ -6,4 +6,4 @@ I have a gold medal at OBMEP 🥇
 I don't have friends :(
 I'm starting at programing
 
-You can find me on Discord, my nickname is felp5492
+You ca
