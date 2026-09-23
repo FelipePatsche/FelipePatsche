@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">facts about me:<br>I love math and physics<br>I'm a student at PIC-POTI<br>I love solving IMO and OBMEP questions<br>I recommend evrybody to watch Veritassium and 3Blue1Brown</p>
+<p data-importer="text" align="left">facts about me:<br>I love math and physics<br>I'm a student at PIC-POTI<br>I love solving IMO and OBMEP questions<br>I recommend everybody to watch Veritassium and 3Blue1Brown</p>
 
 ###
 
