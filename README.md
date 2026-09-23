@@ -1,8 +1,6 @@
 ## Hi there 👋
 🇧🇷
 
-My name is Felipe Beck Patsche. Here, i'll explain a little about me:
-I have a gold medal at OBMEP 🥇
-I'm starting at programming
-
-
+My name is Felipe Beck Patsche. 
+I'm starting at programming.
+I love math and physics.
